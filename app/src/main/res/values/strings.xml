@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVP-TEST-DEMO</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_login">登陆</string>
+</resources>
